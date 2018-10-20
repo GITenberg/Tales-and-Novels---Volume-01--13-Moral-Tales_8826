@@ -1,9 +1,10 @@
-Project Gutenberg's Tales And Novels, Volume 1 (of 10), by Maria Edgeworth
+Project Gutenberg's Tales And Novels, Volume 1 (of 10), by Maria
+Edgeworth
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
 
 Title: Tales And Novels, Volume 1 (of 10)
@@ -12,38 +13,33 @@ Title: Tales And Novels, Volume 1 (of 10)
 Author: Maria Edgeworth
 
 
-Release Date: September, 2005  [EBook #8826]
+Release Date: September, 2005 [EBook #8826]
 This file was first posted on August 13, 2003
-Last Updated: June 8, 2013
+Last Updated: December 30, 2015
 
 Language: English
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK TALES AND NOVELS, VOLUME 1 (OF 10) ***
+*** START OF THIS PROJECT GUTENBERG EBOOK TALES AND NOVELS, VOLUME 1 (OF
+10) ***
 
 
 
+Text file produced by Anne Folland, Jonathan Ingram, Mary Meehan, and
+the Online Distributed Proofreading Team
 
-Produced by Anne Folland, Jonathan Ingram, Mary Meehan,
-and the Online Distributed Proofreading Team
-
-
-
+HTML file produced by David Widger
 
 
 
+TALES AND NOVELS,
 
-
-TALES AND NOVELS, VOLUME I (of X)
+VOLUME I (of X)
 
 MORAL TALES
 
 By Maria Edgeworth
-
-
-
-
 
 
 
@@ -143,9 +139,9 @@ R.L. EDGEWORTH
 
 
 
+CONTENTS
 
-CONTENTS.
-
+PREFACE.
 
 FORESTER
 
@@ -153,21 +149,31 @@ THE PRUSSIAN VASE
 
 THE GOOD AUNT
 
-ANGELINA; OR, L'AMIE INCONNUE
+
+
+ANGELINA; OR, L'AMIE INCONNUE.
+
+CHAPTER I.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV.
+
+CHAPTER V.
+
+
 
 THE GOOD FRENCH GOVERNESS
 
-MADEMOISELLE PANACHE
+MADEMOISELLE PANACHE.
 
 THE KNAPSACK
 
 
 
-
-
-
 FORESTER
-
 
 Forester was the son of an English gentleman, who had paid some
 attention to his education, but who had some singularities of opinion,
@@ -249,12 +255,12 @@ perceive that custom had rendered all these things perfectly easy to
 every one else in company; and as soon as he had devoured his food his
 own way, he moralized in silence upon the good sense of Sancho Panza,
 who preferred eating an egg behind the door to feasting in public; and
-he recollected his favourite traveller Le Vaillant's[1] enthusiastic
+he recollected his favourite traveller Le Vaillant's{1} enthusiastic
 account of his charming Hottentot dinners, and of the disgust that he
 afterwards felt, on the comparison of European etiquette and African
 _simplicity_.
 
-[Footnote 1: Le Vaillant's Travels in Africa, vol. i. p. 114.]
+{Footnote 1: Le Vaillant's Travels in Africa, vol. i. p. 114.}
 
 "Thank God, the ceremony of dinner is over," said Forester to Henry
 Campbell, as soon as they rose from table.
@@ -329,10 +335,7 @@ acquaintance; but he disliked him for good reasons, because he was a
 laird, because he had laughed at his first entrée, and because he was
 learning to dance.
 
-
-
 THE SKELETON.
-
 
 About a week after our hero's arrival at Dr. Campbell's, the doctor was
 exhibiting some chemical experiments, with which Henry hoped that his
@@ -406,10 +409,7 @@ implored them to make way for him with all the civility in his power.
 Forester resolved, that before he ever again attempted to do justice, he
 would, at least, hear both sides of the question.
 
-
-
 THE ALARM.
-
 
 Forester would willingly have sat up all night with M. Pasgrave, to
 foment his ankle from time to time, and, if possible, to assuage the
@@ -529,10 +529,7 @@ death."
 "Pray let me go to sleep," said Dr. Campbell, "and _time_ your
 explanations a little better."
 
-
-
 THE GERANIUM.
-
 
 The dancing-master gradually recovered from his sprain; and Forester
 spent all his pocket-money in buying a new violin for him, as his had
@@ -572,7 +569,7 @@ row_.
 This was the youth of whose acquaintance Archibald Mackenzie was
 ambitious. He stayed in the shop, in hopes that Sir Philip would arrive:
 he was not disappointed; Sir Philip came, and, with address which
-lady Catherine would perhaps have admired, Archibald entered into
+Lady Catherine would perhaps have admired, Archibald entered into
 conversation with the young baronet, if conversation that might be
 called, which consisted of a species of fashionable dialect, devoid of
 sense, and destitute of any pretence to wit. To Forester this dialect
@@ -723,10 +720,7 @@ Mortified by the ill success of his enterprise, Forester returned home,
 attributing the failure of his eloquence chiefly to his ignorance of the
 Scotch dialect.
 
-
-
 THE CANARY BIRD
-
 
 At his return, Forester heard, that all Dr. Campbell's family were
 going that evening to visit a gentleman who had an excellent cabinet of
@@ -763,7 +757,7 @@ Dr. Campbell's giving an account of the effects of some poisons. In
 consequence of this conversation, Henry's attention had been turned to
 the subject, and he had read several essays, which had informed him of
 many curious facts. He recollected, in particular, to have met with
-the account[2] of a bird that had been poisoned, and whose case bore a
+the account{2} of a bird that had been poisoned, and whose case bore a
 strong resemblance to the present. He begged leave to examine the cage,
 in order to discover whether there were any lead about it, with which
 the birds could have poisoned themselves. No lead was to be found: he
@@ -795,7 +789,7 @@ placed on purpose for an old gentleman in company, and was deep in the
 history of a man who had been cast away, some hundred years ago, upon a
 desert island.
 
-[Footnote 2: Falconer, on the Poison of Lead and Copper.]
+{Footnote 2: Falconer, on the Poison of Lead and Copper.}
 
 He condescended, however, to put down his book when the fossils were
 produced: and, as if he had just awakened from a dream, rubbed his eyes,
@@ -835,25 +829,22 @@ reel?--then that fine young laird, Mr. Archibald Mackenzie, will suit
 you much better than I shall." And Forester returned to his arm-chair
 and his desert island.
 
-
-
 THE KEY.
-
 
 It was unfortunate that Forester retired from company in such abrupt
 displeasure at Flora Campbell's question, for had he borne the idea of
 a Scotch reel more like a philosopher, he would have heard of something
 interesting relative to the intended ball, if any thing relative to a
 ball could be interesting to him. It was a charity-ball, for the benefit
-of the mistress of the very charity-school[3] to which the little girl
+of the mistress of the very charity-school{3} to which the little girl
 with the bruised hand belonged. "Do you know," said Henry to Forester,
 when they returned home, "that I have great hopes we shall be able
 to get justice done to the poor children? I hope the tyrannical
 schoolmistress may yet be punished. The lady, with whom we drank tea
 yesterday is one of the patronesses of the charity-school."
 
-[Footnote 3: There is no charity-school of this description in
-Edinburgh; this cannot, therefore, be mistaken for private satire.]
+{Footnote 3: There is no charity-school of this description in
+Edinburgh; this cannot, therefore, be mistaken for private satire.}
 
 "Lady patronesses!" cried Forester; "we need not expect justice from a
 lady patroness, depend upon it, especially at a ball; her head will be
@@ -872,7 +863,7 @@ the little girl and her geranium were sent for, and appeared. Henry told
 the lady all the circumstances of her story with so much feeling, and at
 the same time with so much propriety, that she became interested in
 the cause: she declared that she would do every thing in her power
-to prevail upon the other ladies to examine into, the conduct of the
+to prevail upon the other ladies to examine into the conduct of the
 schoolmistress, and to have her dismissed immediately, if it should
 appear that she had behaved improperly.
 
@@ -979,12 +970,12 @@ Near the large vat, into which Forester had descended, there was a
 cistern of cold water. Henry seized a bucket, which was floating in
 the cistern, filled it with water, and emptied the water into the vat,
 dashing it against the sides, to disperse the water, and to displace
-the mephitic air[4], He called to the people, who surrounded him,
+the mephitic air{4}, He called to the people, who surrounded him,
 for assistance; the water expelled the air; and, when it was safe to
 descend, Henry instantly went down the ladder himself, and fastened the
 cord round Forester, who was quite helpless.
 
-[Footnote 4: Carbonic acid gas.]
+{Footnote 4: Carbonic acid gas.}
 
 "Draw him up!" said Henry, They drew him up. Henry fastened another cord
 round the body of the other man, who lay at the bottom of the vessel,
@@ -1007,10 +998,7 @@ opinions to you, because you have saved my life. I shall always argue
 with you just as I did before. Remember, I despise _address_, I don't
 yield a single point to you. Gratitude shall never make me a sycophant."
 
-
-
 THE FLOWERPOT.
-
 
 Eager to prove that he was not a sycophant, Forester, when he returned
 home with his friend Henry, took every possible occasion to contradict
@@ -1178,10 +1166,7 @@ Flora was obliged to send her disfigured work, without having had the
 satisfaction of hearing the ejaculation which Forester pronounced in her
 praise behind the flower-pot.
 
-
-
 THE BALL.
-
 
 Henry seized the moment when Forester was softened by the mixed effect
 of Dr. Campbell's raillery and Flora's good humour, to persuade him,
@@ -1200,11 +1185,11 @@ natural history of the elephant.
 "I wish you would leave me behind," said Forester, who seemed to have
 relapsed into his former unsociable humour, from having been left
 half an hour in his beloved solitude; nor would Henry probably have
-prevailed, if he had not pointed to the print of the elephant[5]. "That
+prevailed, if he had not pointed to the print of the elephant{5}. "That
 mighty animal, you see, is so docile, that he lets himself be guided by
 a young boy," said Henry; "and so must you."
 
-[Footnote 5: Cabinet of Quadrupeds.]
+{Footnote 5: Cabinet of Quadrupeds.}
 
 As he spoke he pulled Forester gently, who thought he could not
 show less docility than his favourite animal. When they entered the
@@ -1532,10 +1517,7 @@ Forester threw off the clothes which he had worn the preceding night at
 the fatal ball, dressed himself in his old coat, tied up a small bundle
 of linen, and took the road to the gardener's.
 
-
-
 BREAKFAST.
-
 
 When Henry found that Forester was not in his room in the morning, he
 concluded that he had rambled out towards Salisbury Craigs, whither he
@@ -1798,15 +1780,12 @@ head."
 astonishment, remonstrances, and conjectures, he maintained his resolute
 composure.
 
-
-
 THE GARDENER.
-
 
 The gardener who had struck Forester's fancy, was a square, thick,
 obstinate-eyed, hard-working, ignorant, elderly man, whose soul was
 intent upon his petty daily gains, and whose honesty was of that
-"coarse-spun, vulgar sort[6]," which alone can be expected from men of
+"coarse-spun, vulgar sort{6}," which alone can be expected from men of
 uncultivated minds. Mr. M'Evoy, for that was the gardener's name, was
 both good-natured and selfish; his views and ideas all centered in
 his own family; and his affection was accumulated and reserved for two
@@ -1819,8 +1798,8 @@ daughter was an ugly, cross-looking girl, who spent all the money that
 she could either earn or save upon ribands and fine gowns, with which
 she fancied she could supply all the defects of her person.
 
-[Footnote 6: Mrs. Barbauld'a Essay on the Inconsistency of Human
-Expectations.]
+{Footnote 6: Mrs. Barbauld'a Essay on the Inconsistency of Human
+Expectations.}
 
 This powerful motive for her economy operated incessantly upon her mind,
 and she squeezed all that could possibly be squeezed for her private use
@@ -1871,7 +1850,7 @@ Ayrshire Ploughman. Colin's favourite holiday's diversion was playing at
 _goff_; this game, which is played with a bat loaded with lead, and with
 a ball, which is harder than a cricket-ball, requires much strength and
 dexterity. Forester used, sometimes, to accompany the gardener's son to
-the _Links_,[7] where numbers of people, of different descriptions are
+the _Links_,{7} where numbers of people, of different descriptions are
 frequently seen practising this diversion. Our hero was ambitious of
 excelling at the game of _goff_; and, as he was not particularly adroit,
 he exposed himself, in his first attempts, to the derision of the
@@ -1882,7 +1861,7 @@ manners and unaffected modesty of Henry Campbell. Forester soon took an
 aversion to the game of _goff_, and recollected Scotch reels with less
 contempt.
 
-[Footnote 7: A lea or common near Edinburgh.]
+{Footnote 7: A lea or common near Edinburgh.}
 
 One evening, after having finished his task of digging (for digging was
 now become a task), he was going to take a walk to Duddingstone lake,
@@ -2019,10 +1998,10 @@ which lay upon the table, and twirled them upon his fingers, as he used
 to do with a key. He was rather ashamed to perceive, that he had not yet
 cured himself of such a silly habit. "I thought the lesson I got at the
 brewery," said he, "would have cured me for ever of this foolish trick;
-but the diminutive chains of habit[8], as somebody says, are scarcely
+but the diminutive chains of habit{8}, as somebody says, are scarcely
 ever heavy enough to be felt, till they are too strong to be broken."
 
-[Footnote 8: Dr. Johnson's Vision of Theodore.]
+{Footnote 8: Dr. Johnson's Vision of Theodore.}
 
 "_Sir!_" said the astonished clerk.
 
@@ -2085,10 +2064,7 @@ unwilling to make any of these purchases, but the clerk assured him,
 that they were indispensable; and, indeed, at last, his appearance was
 scarcely upon a par with that of his friendly adviser.
 
-
-
 THE BET.
-
 
 Before we follow Forester to the brewery, we must request the attention
 of our readers to the history of a bet of Mr. Archibald Mackenzie's.
@@ -2193,10 +2169,7 @@ intention to cheat him of the interest of his half-guinea, he determined
 to revenge himself in his _care_ of Sawney. We shall hereafter see the
 success of his devices.
 
-
-
 THE SADDLE AND BRIDLE.
-
 
 Scarcely had Archibald Mackenzie been two days in possession of the
 long-wished-for object of his mean soul, when he became dissatisfied
@@ -2348,10 +2321,7 @@ by turning from the history of meanness to that of enthusiasm. The
 faults of Forester we hope and wish to see corrected; but who can be
 interested for the selfish Archibald Mackenzie?
 
-
-
 FORESTER, A CLERK.
-
 
 We left Forester when he was just going to offer himself as clerk to
 a brewer. The brewer was a prudent man; and he sent one of his porters
@@ -2363,7 +2333,7 @@ approved of it, and could properly recommend him. In consequence of Dr.
 Campbell's answer to the brewer's letter, Forester, who knew nothing of
 the application to his friends, obtained the vacant clerkship. He did
 not, however, long continue in his new _situation_. At first he felt
-happy, when he found himself relieved from, the vulgar petulance of Miss
+happy, when he found himself relieved from the vulgar petulance of Miss
 M'Evoy and her brother Colin: in comparison with their rude ill-humours,
 the clerks who were his companions appeared patterns of civility. By
 hard experience, Forester was taught to know, that obliging manners in
@@ -2515,10 +2485,7 @@ that he should be supremely blessed in a printer's office.
 composing-stick in his hand; "what employment so noble, as that of
 disseminating knowledge over the universe!"
 
-
-
 FORESTER, A PRINTER.
-
 
 It was some time before our hero acquired dexterity in his new trade:
 his companions formed, with amazing celerity, whole sentences, while he
@@ -2743,10 +2710,7 @@ By the direction at the bottom of the cards, he learned where M.
 Pasgrave lodged, and, as he was going out to look at the illuminations,
 he resolved to leave them himself at the dancing-master's house.
 
-
-
 THE ILLUMINATIONS.
-
 
 The illuminations were really beautiful. He went up to the Castle,
 whence he saw a great part of the Old Town, and all Prince's-street,
@@ -2995,10 +2959,7 @@ you can afford yourself a decent suit of clothes and a cleaner shirt. I
 beg your pardon for speaking so freely; but I really have a regard for
 you, and wish to see you get forward in life."
 
-
-
 FORESTER, A CORRECTOR OF THE PRESS.
-
 
 Forester had not, since he left Dr. Campbell's, been often spoken to
 in a tone of friendship. The bookseller's well-meant frank remonstrance
@@ -3179,10 +3140,7 @@ of the Meadows." "Go, show me the way--I'll follow you," said Forester,
 after he had satisfied himself that there was no danger of his meeting
 any of Dr. Campbell's family.
 
-
-
 THE MEADOWS.
-
 
 Our hero accompanied the little girl with eager, benevolent curiosity.
 "There," said she, when they came to the Meadows, "do you see that white
@@ -3301,10 +3259,7 @@ our hero, whose pride now yielded to the desire of doing justice to this
 injured woman; he totally forgot himself, and thought only of her: "I'll
 go to Dr. Campbell's, and I will speak to Mr. Mackenzie immediately."
 
-
-
 A SUMMONS
-
 
 Whilst Forester was walking through the streets, with that energy which
 the hope of serving his fellow-creatures always excited in his generous
@@ -3319,7 +3274,7 @@ had been conquered, he began to think he might resume them. Many were
 the pleasing anticipations in which he indulged himself: the looks of
 each of his friends, the generous approving eye of Henry, the benevolent
 countenance of Dr. Campbell, the arch smile of Flora, were all painted
-by his fancy; and lie invented every circumstance that was likely to
+by his fancy; and he invented every circumstance that was likely to
 happen--every word that would probably be said by each individual. We
 are sure that our readers will give our enthusiastic hero credit for
 his forgetting these pleasing reveries--for his forgetting himself,
@@ -3354,10 +3309,7 @@ assistance in this discreditable situation. "You do not know how near he
 is to you! you do not know that he was just returning to you! you do not
 see that he is, at this moment, perhaps, on the brink of disgrace!"
 
-
-
 THE BANK-NOTES.
-
 
 Forester was mistaken in his idea that Dr. Campbell had forgotten him;
 but we shall not yet explain further upon this subject; we only throw
@@ -3550,8 +3502,8 @@ in a riot, the night of the great illuminations--Hey? don't I remember
 some such thing? And you, M. Pasgrave, if I mistake not, interested
 yourself mightily about this young man, and told me and my daughters,
 sir, that he was a young gentleman incognito. I begin to see through
-this affair. Perhaps I this is the same young gentleman from whom you
-received the I note. And pray what value did you give for it?" Pasgrave,
+this affair. Perhaps this is the same young gentleman from whom you
+received the note. And pray what value did you give for it?" Pasgrave,
 whose fear of betraying Forester now increased his confusion, stammered,
 and first said the note was a present, but afterwards added, "I have
 been giving de young person lessons in dancing for des six week."
@@ -3829,10 +3781,7 @@ the foreman's room, should be searched. Mr. W---- sent proper people
 to Mr. Macpherson's; and whilst they are searching his house, we may
 inquire what has become of Henry Campbell.
 
-
-
 THE CATASTROPHE.
-
 
 Henry Campbell, the last time we heard of him, was at the house at the
 back of the meadows. When he went into the large room to his chemical
@@ -4222,14 +4171,10 @@ who has cured himself of so many!"
 
 
 
-
-
-
 THE PRUSSIAN VASE
 
-
 Frederick the Second, king of Prussia, after his conquest of Saxony,
-transported, it is said[1], by force, several manufacturers from Dresden
+transported, it is said{1}, by force, several manufacturers from Dresden
 to Berlin, where he was very desirous of establishing the manufacture
 of china. These unfortunate people, separated from their friends, their
 home, and their native country, were compelled to continue their labours
@@ -4251,7 +4196,7 @@ great as his dread of the king's displeasure; and he at length declared,
 that the next time Frederick visited the works, he must complain of her
 obstinate idleness.
 
-[Footnote 1: Vide Wraxall'g Memoirs of the Court of Berlin.]
+{Footnote 1: Vide Wraxall'g Memoirs of the Court of Berlin.}
 
 The monarch was expected in a few days; for, in the midst, of his
 various occupations, Frederick, who was at this time extremely intent
@@ -4259,7 +4204,7 @@ upon the establishment of the porcelain manufactory at Berlin, found
 leisure frequently to inspect it in person. The king, however, was
 prevented from coming at the appointed hour by a review at Potzdam. His
 majesty had formed the singular project of embodying, and training to
-the science of arms, the Jews in his dominions[2]. They were rather
+the science of arms, the Jews in his dominions{2}. They were rather
 awkward in learning the manual exercise; and the Jewish review, though
 it afforded infinite amusement to the spectators, put Frederick so much
 out of humour, that, as soon as it was over, he rode to his palace of
@@ -4276,7 +4221,7 @@ proceeded, as soon as the review was finished, to exhibit his English
 specimens to a party of gentlemen, who had appointed to meet him at the
 china-works at Berlin.
 
-[Footnote 2: Wraxall's Memoirs of the Court of Berlin, &c.]
+{Footnote 2: Wraxall's Memoirs of the Court of Berlin, &c.}
 
 Of this party, was a youth of the name of Augustus Laniska, who was
 at this time scarcely seventeen years old. He was a Pole by birth--a
@@ -4442,13 +4387,13 @@ The Englishman replied, that the imitation was so exquisite, as scarcely
 to be known by the best judges from the original: and he went on,
 with much eagerness, to give a description of the vase, that he might
 afterward, for the honour of his country, repeat some lines written upon
-the subject by an English poet[3]. Frederick was himself a poet, and a
+the subject by an English poet{3}. Frederick was himself a poet, and a
 judge of poetry; he listened to the lines with attention; and, as soon
 as the Englishman had finished speaking, he exclaimed, "I will write a
 description of the Prussian vase myself."
 
-[Footnote 3: Darwin.--See his description of the Barberini vase in the
-Botanic Garden. We hope our readers will pardon this anachronism.]
+{Footnote 3: Darwin.--See his description of the Barberini vase in the
+Botanic Garden. We hope our readers will pardon this anachronism.}
 
 "The Prussian Vase!" said the English traveller: "I hope I may have the
 honour of seeing it before I leave Berlin."
@@ -4858,7 +4803,7 @@ the Great _my friend_. He is not, as other great monarchs have been,
 ambitious to raise himself above the sphere of humanity; he does not
 desire to be addressed in the fulsome strains either of courtly or of
 poetical adulation: he wishes not to be worshipped as a god, but to be
-respected as a man[4]. It is his desire to have friends that shall
+respected as a man{4}. It is his desire to have friends that shall
 be faithful, or subjects that shall be obedient. Happy his obedient
 subjects--they are secure of his protection: happy, thrice happy, his
 faithful friends--they are honoured with his favour and his confidence.
@@ -4878,7 +4823,7 @@ indulgence of his king. I am compelled to recall one recent instance of
 the truth of these assertions, as it is immediately connected with the
 present cause."
 
-[Footnote 4: AEschylus.]
+{Footnote 4: AEschylus.}
 
 Here Mr. Warendorff related all that had passed at the porcelain
 manufactory at Berlin, and the king's subsequent conduct towards
@@ -5037,7 +4982,7 @@ could not have been written after the china was baked: it must have been
 written whilst the biscuit was soft; and it must have been covered
 over with the blue paint after the vase was taken out of the furnace. I
 believe the word was written by Count Laniska, because I saw nobody
-else write upon the vase hut him; because the word exactly resembles the
+else write upon the vase but him; because the word exactly resembles the
 handwriting of the rest of the inscription; and because I, upon a former
 occasion, heard the count make use of that very word in speaking of
 Frederick the Great."
@@ -5130,7 +5075,7 @@ the prisoner's guilt.
 fact cannot be produced, our judgments must be decided by the balance
 of _probabilities_; and it is for this reason that the study of
 probabilities, and the power of comparing them, has, in a late
-celebrated essay, been called _the Science of Judges_.[5] To you, judges
+celebrated essay, been called _the Science of Judges_.{5} To you, judges
 of my friend, all the probabilities of his supposed guilt have been
 stated. Weigh and compare them with those which I shall produce
 in favour of his innocence. His education, his character, his
@@ -5170,7 +5115,7 @@ friendship that I made this offer; it was from the sober conviction
 of my understanding, founded upon the accurate calculation of moral
 probabilities.
 
-[Footnote 5: Voltaire--Essai sur les Probabilités en fait de Justice.]
+{Footnote 5: Voltaire--Essai sur les Probabilités en fait de Justice.}
 
 "It has been my good fortune, gentlemen, in the course of the inquiries
 which I have since made, to obtain further confirmation of my opinion.
@@ -5463,11 +5408,7 @@ I admire your king of Prussia, I admire our English constitution more."
 
 
 
-
-
-
 THE GOOD AUNT
-
 
 Charles Howard was left an orphan when he was very young. His father
 had dissipated a large fortune, and lost his life in a duel, about some
@@ -5530,7 +5471,7 @@ as extensive a range as possible.
 
 To instruct her nephew in the learned languages, she engaged a good
 scholar and a man of sense: his name--for a man is nothing without a
-name--was Russell[1]. Little Charles did not at first relish Latin;
+name--was Russell{1}. Little Charles did not at first relish Latin;
 he used sometimes to come from his Latin lessons with a very dull,
 stupified face, which gradually brightened into intelligence, after he
 had talked for a few minutes with his aunt. Mrs. Howard, though pleased
@@ -5541,10 +5482,10 @@ people happened to be present. "I have done with Mr. Russell, and my
 Latin, ma'am, thank goodness--now may I have the elephant and the camel,
 or the bear and her cubs, that you marked for me last night?"
 
-[Footnote 1: RUSSELL.--This name is chosen for that of a good tutor,
+{Footnote 1: RUSSELL.--This name is chosen for that of a good tutor,
 because it was the name of Mr. Edgeworth's tutor, at Oxford: Mr. Russell
 was also tutor to the late Mr. Day. Both by Mr. Day and Mr. Edgeworth he
-was respected, esteemed, and beloved, in no common degree.]
+was respected, esteemed, and beloved, in no common degree.}
 
 The company laughed at this speech of Charles: and a silly lady--for
 even Mrs. Howard could not make all her acquaintance wise--a silly lady
@@ -5640,10 +5581,10 @@ and hinges, which door the spider and all the members of his family take
 care to shut after them, whenever they go in and out.
 
 Little Charles, as he sat eagerly attentive in his corner of the sofa,
-heard of the trumpet of the common gnat[2], and of its proboscis, which
+heard of the trumpet of the common gnat{2}, and of its proboscis, which
 serves at once for an awl, a saw, and a pump.
 
-[Footnote 2: St. Pierre, Études de la Nature.]
+{Footnote 2: St. Pierre, Études de la Nature.}
 
 "Are there any more such things," exclaimed Charles, "in these books?"
 
@@ -5917,10 +5858,10 @@ moment's thought, turned to the Jew and said,--
 "But the day that is good for my aunt must be bad for you. The buyers
 and sellers should each have fair play. Mr. Carat, your weights should
 be diamonds, and then the changes in the weight of the air would not
-signify one way or the other.[3]"
+signify one way or the other.{3}"
 
-[Footnote 3: This observation was literally made by a boy of ten years
-of age.]
+{Footnote 3: This observation was literally made by a boy of ten years
+of age.}
 
 Mr. Carat smiled at this speech, but, suppressing his contempt for the
 young gentleman, only observed, that he should most certainly follow Mr.
@@ -5965,7 +5906,7 @@ indefatigable, because he was encouraged by the hope of being useful.
 This ambition had been early excited in his mind.
 
 When Mrs. Howard had settled her affairs, she took a small neat house
-near Westminster school[4], for the purpose of a boarding-house for some
+near Westminster school{4}, for the purpose of a boarding-house for some
 of the Westminster boys. This plan she preferred, because it secured an
 independent means of support, and at the same time enabled her, in some
 measure, to assist in her nephew's education, and to enjoy his company.
@@ -5978,7 +5919,7 @@ nephew; he determined to offer himself as a tutor at Westminster school;
 and, as his acquirements were well known to the literary world, he was
 received with eagerness.
 
-[Footnote 4: See the account of Mrs. C. Ponten, in Gibbon's Life.]
+{Footnote 4: See the account of Mrs. C. Ponten, in Gibbon's Life.}
 
 "My dear boy," said Mrs. Howard to her nephew, when he first went to
 Westminster, "I shall not trouble you with a long chapter of advice: do
@@ -6185,7 +6126,7 @@ do you recollect, sir, he's my fag?"
 "Fag or no fag," cried Howard, "you shall not make a slave of him."
 
 "I will! I shall! I will!" cried Holloway, worked up to the height
-of tyrannical fury: "I will make a slave of him, if I choose it-a
+of tyrannical fury: "I will make a slave of him, if I choose it--a
 negro-slave, if I please!"
 
 At the sound of negro-slave, the little Creole burst into tears. Howard
@@ -6854,10 +6795,10 @@ awakened, but dressed himself _almost_ as expeditiously as Oliver
 wished, and set out immediately with his pupils, delighted to be the
 companion of their benevolent schemes, instead of being the object of
 their fear and hatred. Tutors may inspire affection, even though they
-have the misfortune to be obliged to teach Greek and Latin.[5]
+have the misfortune to be obliged to teach Greek and Latin.{5}
 
-[Footnote 5: Vide Dr. Johnson's assertions to the contrary, in Mrs.
-Piozzi's Anecdotes.]
+{Footnote 5: Vide Dr. Johnson's assertions to the contrary, in Mrs.
+Piozzi's Anecdotes.}
 
 When the boys arrived at the gardener's, they found the poor mulatto
 woman lying upon a bed, in a small close room, which was so full of
@@ -7167,9 +7108,9 @@ of their notice. "Gentlemen," cried Dr. B., coming forward among the
 anxious crowd of expectants, "which of you owns this motto?--
 
      "'Hear it, ye Senates, hear this truth sublime,
-     He who allows oppression shares the crime[6].'"
+     He who allows oppression shares the crime{6}.'"
 
-[Footnote 6: Botanic Garden, vol. ii.]
+{Footnote 6: Botanic Garden, vol. ii.}
 
 "It's his!--it's his!--it's his!" exclaimed little Oliver, clapping his
 hands--"it's Howard's, sir."
@@ -7924,7 +7865,7 @@ in the room, whilst every one looked at Oliver, as at a picture. Mrs.
 Howard moved gently round behind his chair, to see what he was reading:
 the doctor followed her. It was the account of the execution of two
 rebel Koromantyn negroes, related in Edwards's History of the West
-Indies[7]. To try whether it would interrupt Oliver's deep attention,
+Indies{7}. To try whether it would interrupt Oliver's deep attention,
 Mrs. Howard leaned over him, and snuffed his dim candle; but the light
 was lost upon him--he did not feel the obligation. Dr. B. then put his
 hand upon the jar, which he pulled from Oliver's embrace. "Be quiet! I
@@ -7934,7 +7875,7 @@ the little boy made an impatient push with his elbow; then casting his
 eye upon the large hand which pulled the jar, he looked up, surprised,
 in the doctor's face.
 
-[Footnote 7: Vol. ii. p. 57, second edition.]
+{Footnote 7: Vol. ii. p. 57, second edition.}
 
 The nice china jar, which Oliver had held so sturdily, was very
 precious to him. His uncle had just sent him two jars of fine West India
@@ -8495,10 +8436,8 @@ sense, firmness, and benevolence had so well deserved.
 
 
 
-
-
-
 ANGELINA; OR, L'AMIE INCONNUE.
+
 
 
 CHAPTER I.
@@ -8661,7 +8600,7 @@ what soul-rending eloquence does my Angelina describe the solitariness,
 the _isolation_ of the heart she experiences in a crowded metropolis!
 With what emphatic energy of inborn independence does she
 exclaim against the family phalanx of her aristocratic
-persecutors!-Surely--surely she will not be intimidated from
+persecutors!--Surely--surely she will not be intimidated from
 'the settled purpose of her soul' by the phantom-fear of worldly
 censure!--The garnish-tinselled wand of fashion has waved in vain in
 the illuminated halls of folly-painted pleasure; my Angelina's eyes have
@@ -8776,7 +8715,7 @@ frivolity of what is called fashionable life, and _unable_ to _live_
 without the higher pleasures of friendship, I have chosen for my asylum
 the humble, tranquil cottage of a female friend, whose tastes, whose
 principles have long been known to me: whose _genius_ I admire! whose
-_virtues_ I revere! Whose example I _emulate!_
+_virtues_ I revere! whose example I _emulate!_
 
 "Though I do not condescend to use the fulsome language of _a mean
 dependant_, I am not forgetful of the kindness I have received from
@@ -8794,7 +8733,6 @@ felicity_."
 
 
 CHAPTER II.
-
 
 Full of her hopes of finding "perfect felicity" in her retreat at
 Angelina Bower, exulting in the idea of the courage and magnanimity with
@@ -8839,7 +8777,7 @@ The man tuned his harp sullenly. "I'm sorry for it, miss," said he:
 
 Angelina cast upon him a look of contempt. "He no way fills my idea of a
 bard!--an ancient and immortal bard!--He has no soul--fingers without a
-soul!--No 'master's hand, 'or 'prophet's fire!'--No 'deep sorrows!'--No
+soul!--No 'master's hand,' or 'prophet's fire!'--No 'deep sorrows!'--No
 'sable garb of woe!'--No loose beard, or hoary hair, 'streaming like a
 meteor to the troubled air!'--'No haggard eyes!'--Heigho!"--"It is time
 for me to be going," said the harper, who began to think, by the young
@@ -8974,8 +8912,8 @@ She knocked at the cottage window--still no answer.
 
 "All silent as night!" said she--
 
-"'When not a breath disturbs the deep serene, And not a cloud o'ercasts
-the solemn scene.'"
+     "'When not a breath disturbs the deep serene,
+       And not a cloud o'ercasts the solemn scene.'"
 
 Angelina, as she repeated these lines, stood with her back to the
 cottage window: the window opened, and a Welsh servant girl put out her
@@ -9104,7 +9042,7 @@ amuse herself by contemplating the beauties of nature. There were some
 wild, solitary walks in the neighbourhood of Angelina Bower; but though
 our heroine was delighted with these, she wanted, in her rambles,
 some kindred soul, to whom she might exclaim--"How charming is
-solitude[1]!"--The day after her arrival in Wales, she wrote a long
+solitude{1}!"--The day after her arrival in Wales, she wrote a long
 letter to Araminta, which Betty Williams undertook to send by a careful
 lad, a particular friend of her own, who would deliver it, without fail,
 into Miss Hodges's own hands, and who would engage to bring an answer
@@ -9154,7 +9092,7 @@ newspaper, and his company was, therefore, always welcome to the farmer,
 who loved to hear the news, and the reader was paid for his trouble with
 good ale, which he loved even better than literature.
 
-[Footnote 1: Voltaire.]
+{Footnote 1: Voltaire.}
 
 "What news, Mr. Evans?" said the farmer.
 
@@ -9231,7 +9169,6 @@ chapter.
 
 CHAPTER III.
 
-
 Angelina went by water from Cardiffe to Bristol; the water was rather
 rough, and, as she was unused to the motion of a vessel, she was both
 frightened and sick. She spent some hours very disagreeably, and without
@@ -9295,7 +9232,7 @@ _p_, and ends with a _t_," cried the coachman; and after he had uttered
 half a score of Hibernian execrations upon the Welsh woman's folly,
 he with much good nature went along with her to read the names on the
 street doors.--"Here's a name now that's the very thing for you--here's
-Pushit now.-Was the name Pushit?--Ricollict yourself, my good girl, was
+Pushit now.--Was the name Pushit?--Ricollict yourself, my good girl, was
 that your name?"
 
 "Pushit!--Oh, yes, I am sure, and pelieve it was Pushit--Mrs. Pushit's
@@ -9974,7 +9911,6 @@ Somerset's house, at Clifton.
 
 
 CHAPTER IV.
-
 
 "Well, how I am to get up this hill again, Heaven knows!" said Lady
 Diana Chillingworth, who had been prevailed upon to walk down Clifton
@@ -10794,7 +10730,6 @@ most severe reproaches.
 
 CHAPTER V.
 
-
 Whilst the preceding conversation was passing, Lady Diana Chillingworth
 was in Mrs. Bertrand's fruit-shop, occupied with her smelling-bottle and
 Miss Burrage. Clara Hope was there also, and Mrs. Puffit, the milliner,
@@ -11012,7 +10947,7 @@ into the recess at the farthest end of the room, "here are more
 misfortunes--misfortunes without end. What will the world say? Here's
 this Miss Burrage,--take no more notice of her, sister; she's an
 impostor; who do you think she turns out to be? Daughter to a drysalter,
-niece to a cheesemonger! Only conceive!-a person that has been going
+niece to a cheesemonger! Only conceive!--a person that has been going
 about with _me_ every where!--What will the world say?"
 
 "That it is very imprudent to have _unknown friends_, my dear," replied
@@ -11077,11 +11012,7 @@ of the affectation of sensibility, and the folly of romance.
 
 
 
-
-
-
 THE GOOD FRENCH GOVERNESS
-
 
 Among the sufferers during the bloody reign of Robespierre, was Mad. de
 Rosier, a lady of good family, excellent understanding, and most amiable
@@ -11681,14 +11612,14 @@ till she was sure that he would not meddle with what was not his own."
 Herbert now felt the inconvenience of his lawless habits: to enjoy the
 pleasures, he perceived that it was necessary to submit to the duties
 of society; and he began to respect "_the rights of things and
-persons_[1]." When his new sense of right and wrong had been
+persons_{1}." When his new sense of right and wrong had been
 sufficiently exercised at home, Mad. de Rosier ventured to expose him
 to more dangerous trials abroad; she took him to a carpenter's workshop,
 and though the saw, the hammer, the chisel, the plane, and the vice,
 assailed him in various forms of temptation, his powers of forbearance
 came off victorious.
 
-[Footnote 1: Blackstone]
+{Footnote 1: Blackstone}
 
 "To _bear_ and _forbear_" has been said to be the sum of manly virtue:
 the virtue of forbearance in childhood must always be measured by
@@ -11738,9 +11669,9 @@ up to Mad. de Rosier, and, with a resolute face, said, "I must learn to
 read."
 
 "If any body will be so good as to teach you, I suppose you mean," said
-she, smiling[2].
+she, smiling{2}.
 
-[Footnote 2: Vide Rousseau.]
+{Footnote 2: Vide Rousseau.}
 
 "Will _you_ be so good?" said he: "perhaps you could teach me, though
 Grace says 'tis very difficult; I'll do my best."
@@ -11907,7 +11838,7 @@ sentimental hypocrisy.
 
 Whether Mrs. Harcourt understood her conduct this evening, she could not
 discover--for politeness does not always speak the unqualified language
-of the heart--hut she trusted to the effect of time, on which persons
+of the heart--but she trusted to the effect of time, on which persons
 of integrity may always securely rely for their reward. Mrs. Harcourt
 gradually discovered that, as she became more interested in the
 occupations and amusements of her children, they became more and more
@@ -11957,7 +11888,7 @@ was endeavouring to climb a wall twenty feet high.
 
 "It is not a story--it is a question in arithmetic," replied Mad. de
 Rosier. "This snail was to crawl up a wall twenty feet high; he crawled
-up five feet every day, and slipped hack again four feet every night: in
+up five feet every day, and slipped back again four feet every night: in
 how many days did he reach the top of the wall?"
 
 "I love questions in arithmetic," exclaimed Matilda, "when they are
@@ -12207,15 +12138,15 @@ his pace nimble and regular; and the only inducement used to make him
 increase his speed is that of calling him by name, which he readily
 obeys."
 
-"I am not an ass," said Herbert, laughing, as he finished this
-sentence, "but I think Mad. de Rosier is very like the good old man, and
-I always obey whenever she speaks to me. By the by," continued Herbert,
-who now seemed eager to recollect something by which he could show his
-readiness to obey--"by the by, Grace told me that my mother desired I
-should go to her, and have my hair combed every day; now I don't like
-it, but I will do it, because mamma desires it, and I will go this
-instant; will you come and see how still I can stand? I will show you
-that I am not obstinate."
+"I am not an ass," said Herbert, laughing, as he finished this sentence,
+"but I think Mad. de Rosier is very like the good old man, and I always
+obey whenever she speaks to me. By the by," continued Herbert, who now
+seemed eager to recollect something by which he could show his readiness
+to obey--"by the by, Grace told me that my mother desired I should go to
+her, and have my hair combed every day; now I don't like it, but I will
+do it, because mamma desires it, and I will go this instant; will
+you come and see how still I can stand? I will show you that I am not
+obstinate."
 
 Mad. de Rosier followed the little hero, to witness his triumph _over
 himself_. Grace happened to be with her mistress who was dressing.
@@ -13606,7 +13537,7 @@ that economy is necessary to generosity; and she consequently sometimes
 denied herself the gratification of her own tastes, that she might be
 able to assist those who were in distress.
 
-She had lately seen a beautiful print[3] of the king of France taking
+She had lately seen a beautiful print{3} of the king of France taking
 leave of his family; and, as Mad. de Rosier was struck with it, she
 wished to have bought it for her; but she now considered that a guinea,
 which was the price of the print, might be better bestowed on this poor,
@@ -13614,7 +13545,7 @@ little, ingenious, industrious boy; so she begged her mother to send
 to the repository for one of his boxes. The servants were all busy, and
 Matilda did not receive her box till the next morning.
 
-[Footnote 3: By Egginton.]
+{Footnote 3: By Egginton.}
 
 Herbert was reading to Mad. de Rosier when the servant brought the box
 into the room. Favoretta got up to look at it, and immediately Herbert's
@@ -13939,9 +13870,9 @@ followed him to the place where he was going with the wig, I told him
 that I had not eaten for many hours; that I was a stranger in Bristol,
 and had no means of earning any food. He advised me to go to a tavern,
 which he pointed out to me--'The Rummer;'--he told me a circumstance,
-which convinced me of the humanity of the master of the house.[4]
+which convinced me of the humanity of the master of the house.{4}
 
-[Footnote 4: During Christmas week it is the custom in Bristol to keep a
+{Footnote 4: During Christmas week it is the custom in Bristol to keep a
 cheap ordinary in taverns: the master of the Rummer observed a stranger,
 meanly dressed, who constantly frequented the public table. It was
 suspected that he carried away some of the provision, and a waiter
@@ -13955,7 +13886,7 @@ meanness. The poor man immediately acknowledged that he had for several
 days carried off precisely what he would have eaten himself for his
 starving wife, but he had eaten nothing. The humane, considerate
 landlord gently reproved him for his conduct, and soon found means to
-have him usefully and profitably employed.]
+have him usefully and profitably employed.}
 
 "I resolved to apply to this benevolent man. When I first went into his
 kitchen, I saw his cook, a man with a very important face, serving out
@@ -14253,15 +14184,11 @@ friend there is something that I cannot feel to be perfectly agreeable."
 
 
 
-
-
-
 MADEMOISELLE PANACHE.
 
-SECOND PART[1]
+SECOND PART{1}
 
-[Footnote 1: The first part is in the Parent's Assistant, vol. iv.]
-
+ {Footnote 1: The first part is in the Parent's Assistant, vol. iv.}
 
 The tendency of any particular mode of education is not always
 perceived, before it is too late to change the habits or the character
@@ -14350,7 +14277,7 @@ assent.
 "Ah!" exclaimed Mlle. Panache, turning eagerly to Dashwood, "have you
 seen _de uniforme?--C'est charmant_; and I have no small hand in it."
 
-Dashwood paid he expected compliment to her taste. "Ah! _non_," said
+Dashwood paid the expected compliment to her taste. "Ah! _non_," said
 she, "you are too good, too flattering; but you must tell me your
 judgment without flattery! _Vous êtes homme de goût_, though an
 Englishman--you see I have got no _préjugés_." Dashwood bowed.
@@ -15365,9 +15292,9 @@ rather more than the occasion required; but, thought Mr. Mountague,
      "If the generous spirit flow
      Beyond where prudence fears to go
      Those errors are of nobler kind,
-     Than virtues of a narrow mind[2]."
+     Than virtues of a narrow mind{2}."
 
-[Footnote 2: Soame Jenyns.]
+{Footnote 2: Soame Jenyns.}
 
 By a series of petty artifices Lady Augusta contrived to make herself
 appear most engaging and amiable to this artless young man: but the
@@ -15375,7 +15302,7 @@ moment of success was to her the moment of danger. She was little aware,
 that when a man of sense began to think seriously of her as a wife, he
 would require very different qualities from those which please in public
 assemblies. Her ladyship fell into a mistake not uncommon in her
-sex; she thought that "Love blinds when once he wounds the swain[3]."
+sex; she thought that "Love blinds when once he wounds the swain{3}."
 Coquettes have sometimes penetration sufficient to see what will please
 their different admirers: but even those who have that versatility of
 manners, which can be all things to all men, forget that it is possible
@@ -15383,7 +15310,7 @@ to support an assumed character only for a time; the moment the
 immediate motive for dissimulation diminishes, the power of habit acts,
 and the real disposition and manners appear.
 
-[Footnote 3: Collius's Eclogues.]
+{Footnote 3: Collius's Eclogues.}
 
 When Lady Augusta thought herself sure of her captive, and consequently
 when the power of habit was beginning to act with all its wonted
@@ -15411,7 +15338,7 @@ she.
 philosopher, you know, Mr. Dashwood, must have a Utopia, under whatever
 name he pleases to call it)--in Mezzorania, Lady Augusta, gentlemen did
 not, as amongst us, make declarations of love by artificial words, but
-by natural flowers[4]. The lover in the beginning of his attachment
+by natural flowers{4}. The lover in the beginning of his attachment
 declared it to his mistress by the offer of an opening bud; if she felt
 favourably inclined towards him, she accepted and wore the bud. When
 time had increased his affection--for in Mezzorania it is supposed that
@@ -15424,7 +15351,7 @@ as engaged for life; nor did the gentlemen, when they offered their
 flowers, make one single protestation or vow of eternal love, yet they
 were believed, and deserved, it is said, to be believed."
 
-[Footnote 4: Gaudentio di Lucca, p. 202.]
+{Footnote 4: Gaudentio di Lucca, p. 202.}
 
 "_Qu'est ce que c'est? Qu'est ce que c'est?_" repeated mademoiselle
 several times to Dashwood, whilst Mr. Mountague was speaking: she did
@@ -15532,9 +15459,9 @@ professed any _liking_ for earwigs."
 
 "Well, _pity_; you profess pity for them," said Mr. Dashwood, "and pity,
 you know, is 'akin to love.'--Pray, did your ladyship ever hear of the
-man who had a pet toad?"[5]
+man who had a pet toad?"{5}
 
-[Footnote 5: Vide Smellie's Natural History, vol. ii.]
+{Footnote 5: Vide Smellie's Natural History, vol. ii.}
 
 "Oh, the odious wretch!" cried Lady Augusta, affectedly; "but how could
 the man bring himself to like a toad?"
@@ -15701,7 +15628,7 @@ which had been sent for to convey her home. The carriages drove away,
 and Mr. Mountague was just mounting his horse, when he saw the book
 which had been pulled out of Lady Augusta's pocket, and which, by
 mistake, was left where it had been thrown upon the grass. What was his
-astonishment, when upon opening it, he saw one of the very worst hooks
+astonishment, when upon opening it, he saw one of the very worst books
 in the French language; a book which never could have been found in the
 possession of any woman of delicacy--of decency. Her lover stood for
 some minutes in silent amazement, disgust, and, we may add, terror.
@@ -15807,7 +15734,7 @@ contempt. The next day, at dinner, her ladyship appeared in the same
 turban, put on sedulously in the same manner. Lord George seated himself
 beside her; and as she observed that he paid her unusual attention, she
 fancied that at length his icy heart would thaw. Always more intent
-upon making cages[6], Lady Augusta bent her mind upon captivating a new
+upon making cages{6}, Lady Augusta bent her mind upon captivating a new
 admirer. Mr. Mountague she saw was displeased, but she now really
 felt and showed herself indifferent to his opinion. How variable, how
 wretched, is the life of a coquette! The next day Lord George's heart
@@ -15823,7 +15750,7 @@ and she valued her treasures by number, and not by weight. A man of
 sense is mortified to see himself confounded with the stupid and the
 worthless.
 
-[Footnote 6: Swift]
+{Footnote 6: Swift}
 
 Mr. Mountague, after having loved like a madman, felt it not in the
 least incumbent upon him to love like a fool; he had imprudently
@@ -16252,21 +16179,9 @@ choice to make.
 
 
 
+THE KNAPSACK {1}
 
-
-
-THE KNAPSACK [1]
-
-[Footnote 1: In the Travels of M. Beanjolin into Sweden, he mentions
-having, in the year 1790, met carriages laden with the knapsacks of
-Swedish soldiers, who had fallen in battle in Finland. These carriages
-were escorted by peasants, who were relieved at every stage, and thus
-the property of the deceased was conveyed from one extremity of the
-kingdom to the other, and faithfully restored to their relations. The
-Swedish peasants are so remarkably honest, that scarcely any thing is
-ever lost in these convoys of numerous and ill-secured packages.]
-
-
+ {Footnote 1: In the Travels of M. Beanjolin into Sweden, he mentions having, in the year 1790, met carriages laden with the knapsacks of Swedish soldiers, who had fallen in battle in Finland. These carriages were escorted by peasants, who were relieved at every stage, and thus the property of the deceased was conveyed from one extremity of the kingdom to the other, and faithfully restored to their relations. The Swedish peasants are so remarkably honest, that scarcely any thing is ever lost in these convoys of numerous and ill-secured packages.}
 
 _DRAMATIS PERSONAE_
 
@@ -16283,10 +16198,7 @@ seven years old_.
 _Serjeant, and a Troop of Soldiers, a Train of Dancers, a Page,
 Peasants, &c_.
 
-
-
 ACT I.
-
 
 SCENE--_A cottage in Sweden_.--CATHERINE, _a young and handsome woman,
 is sitting at her spinning wheel.--A little Boy and Girl, of six and
@@ -16345,7 +16257,7 @@ _Little Girl sings_.
 That's the best way, At work and at play, To help one another--I heard
 mother say--To help one another--I heard mother say--
 
-[_The children go off, singing these words_.]
+{_The children go off, singing these words_.}
 
 _Cath. (alone_.) Dear, good children, how happy their father will be to
 see them, when he comes back!--(_She begins to eat the remains of the
@@ -16362,7 +16274,7 @@ upon a chair_)--why cannot I run to see--to ask (_the drum beats louder
 and louder_)--fool that I am! they will be gone! they will be all gone!
 (_she starts up_.)
 
-[_Exit hastily_.]
+{_Exit hastily_.}
 
 SCENE _changes to a high road, leading to a village.--A party of ragged,
 tired soldiers, marching slowly. Serjeant ranges them_.
@@ -16371,7 +16283,7 @@ _Serj_. Keep on, my brave fellows, keep on, we have not a great way
 further to go:--keep on, my brave fellows, keep on, through yonder
 village. (_The drum beats_.)
 
-[_Soldiers exeunt_.]
+{_Soldiers exeunt_.}
 
 _Serj_. (_alone_.) Poor fellows, my heart bleeds to see them! the sad
 remains, these, of as fine a regiment as ever handled a musket. Ah! I've
@@ -16429,16 +16341,16 @@ _Serj_. I know nothing for certain. When the peasants come with the
 knapsacks, you will hear all from them. Pray you, let me follow my men;
 they are already at a great distance.
 
-[_Exit Serj. followed by Catherine_.]
+{_Exit Serj. followed by Catherine_.}
 
 _Cath_. I will not detain you an instant--only one word more--
 
-[_Exit_.]
+{_Exit_.}
 
 SCENE.--_An apartment in Count Helmaar's Castle.--A train of
-dancers.--After they have danced for some time,
+dancers.--After they have danced for some time, _
 
-Enter a Page_.
+Enter a Page.
 
 _Page_. Ladies! I have waited, according to your commands, till Count
 Helmaar appeared in the ante-chamber--he is there now, along with the
@@ -16534,12 +16446,12 @@ dispels--What's her husband, my friends, but a fool without bells?
 _Christina, Eleonora, Helmaar, &c_.--Bravo! bravissimo!--excellent
 fool!--Encore.
 
-[_The fool folds his arms, and begins to cry bitterly_.]
+{_The fool folds his arms, and begins to cry bitterly_.}
 
 _Christina_. What now, Aleftson? I never saw you sad before--What's the
 matter?--Speak.
 
-[_Fool sobs, but gives no answer_.]
+{_Fool sobs, but gives no answer_.}
 
 _Helm_. Why do you weep so bitterly?
 
@@ -16608,7 +16520,7 @@ cap upon the floor, changes his tone entirely_)--_I!_--who am brother
 to the man who saved Count Helmaar's life--I to wear a fool's cap and
 bells--Oh shame! shame!
 
-[_The ladies look at one another with signs of astonishment._]
+{_The ladies look at one another with signs of astonishment._}
 
 _Christina_ (_aside_). A lucid interval--poor fool!--I will torment him
 no more--he has feeling--'twere better he had none.
@@ -16623,7 +16535,7 @@ are returned, I have no need of such a disguise--I may now speak the
 truth without fear, and without a cap and bells.--I resign my salary,
 and give back the ensign of my office--(_presents the fool's cap_).
 
-[_Exit_.]
+{_Exit_.}
 
 _Christina_. He might well say, that none but fools should pay
 compliments--this is the best compliment that has been paid you,
@@ -16637,12 +16549,9 @@ a wise man.
 
 _Christina_. Amen--and now I hope we are to have some more dancing.
 
-[_Exeunt_.]
-
-
+{_Exeunt_.}
 
 ACT II.
-
 
 SCENE--_By moonlight--a forest--a castle illuminated at a distance.--A
 group of peasants seated on the ground, each with a knapsack beside
@@ -16677,8 +16586,8 @@ man's twice as heavy as one that's awake--Hollo, friend! waken!
 waken!--(_he shakes the sleeper, who snores loudly_)--Good Lord, he
 snores loud enough to waken all the birds in the wood.
 
-[_All the peasants shout in the sleeper's ear, and he starts up, shaking
-himself._]
+{_All the peasants shout in the sleeper's ear, and he starts up, shaking
+himself._}
 
 _Charles_. Am I awake?--(_stretching_.)
 
@@ -16697,7 +16606,7 @@ _Charles_. A great way further! further to-night!--No, no.
 _2nd Peasant_. Yes, yes; we settled it all while you were fast
 asleep--You are to be carried, you and your knapsack.
 
-[_They prepare to carry him_.]
+{_They prepare to carry him_.}
 
 _Charles_ (_starting up, and struggling with them_). I've legs to
 walk--I won't be carried!--I, a Swede, and be carried!--No! No!--
@@ -16708,7 +16617,7 @@ _Charles_. No! No!--(_he struggles for his knapsack, which comes untied
 in the struggle, and all the things fall out_.)--There, this comes of
 playing the fool.
 
-[_They help him to pick up the things, and exclaim,_]
+{_They help him to pick up the things, and exclaim,_}
 
 _All_. There's no harm done--(_throwing the knapsack over his
 shoulder_).
@@ -16717,7 +16626,7 @@ _Charles_. I'm the first to march, after all.
 
 _Peasants_. Ay, in your sleep!
 
-[_Exeunt, laughing._]
+{_Exeunt, laughing._}
 
 _Enter_ CATHERINE'S _two little Children_.
 
@@ -16774,8 +16683,7 @@ I.
      Your fairy dainties let us taste,
      And speed us home with fairy haste.
 
-_Little Boy_. If there were really fairies, and if they would give me my
-wish, I know what I should ask.
+ _Little Boy_. If there were really fairies, and if they would give me my wish, I know what I should ask.
 
 _Little Girl._ And so do I--I would ask them to send father home before
 I could count ten.
@@ -16784,10 +16692,10 @@ _Little Boy_. And I would ask to hear his general say to him, in the
 face of the whole army, "This is a brave man!" And father should hold up
 his head as I do now, and march thus by the side of his general.
 
-[_As the little Boy marches, he stumbles.]
+{_As the little Boy marches, he stumbles_.}
 
-_Little Girl_. Oh! take care!--come, let us march home:--but stay, I have
-not found my faggot.
+_Little Girl_. Oh! take care!--come, let us march home:--but stay, I
+have not found my faggot.
 
 _Little Boy_. Never mind your faggot; it was not here you left it.
 
@@ -16828,7 +16736,7 @@ _Little Girl_. Yes; but don't push me, or I shall knock my head against
 the trees. Give me your hand, brother.--Oh, my faggot! I shall never
 find you.
 
-[_Exeunt_.]
+{_Exeunt_.}
 
 SCENE--Catherine's _Cottage_.
 
@@ -16864,8 +16772,8 @@ fellow, that has been a-foot a great many hours.
 _Cath_. Then, pray ye, rest yourself, and such fare as we have you're
 welcome to.
 
-[_She sets milk, &c., on a table. Charles throws himself into a chair,
-and flings his knapsack behind him_.]
+{_She sets milk, &c., on a table. Charles throws himself into a chair,
+and flings his knapsack behind him_.}
 
 _Charles_. 'Tis a choice thing to rest one's self:--I say, mistress,
 you must know, I, and some more of us peasants, have come a many, many
@@ -16894,7 +16802,7 @@ mistress.
 _Catherine (goes fearfully towards the knapsack_). 'Tis his! 'tis my
 husband's!
 
-[_She sinks down on a chair, and hides her face with her hands_.]
+{_She sinks down on a chair, and hides her face with her hands_.}
 
 _Charles_. Poor soul! poor soul!--(_he pauses_.) But now it is not clear
 to me that you may not be mistaken, mistress:--these knapsacks be all
@@ -16905,10 +16813,10 @@ Catherine, and holds it before her face_.)--Look ye here, now; don't
 give way to sorrow while there's hope left--Mayhap, mistress--look at
 this now, can't ye, mistress?
 
-[_Catherine timidly moves her hands from before her face, sees the
+{_Catherine timidly moves her hands from before her face, sees the
 waistcoat, gives a faint scream, and falls back in a swoon. The peasant
 runs to support her.--At this instant the back door of the cottage
-opens, and_ ALEFTSON _enters_.]
+opens, and_ ALEFTSON _enters_.}
 
 _Aleft_. Catherine!
 
@@ -16922,7 +16830,7 @@ was, you'll see, presently--leave her to me!
 
 _Charles_. There! she gave a sigh--she's coming to her senses.
 
-[_Catherine raises herself_.]
+{_Catherine raises herself_.}
 
 _Cath_. What has been the matter?--(_She starts at the sight of
 Aleftson_.)--My husband!--no--'tis Aleftson--what makes you look so like
@@ -16995,7 +16903,7 @@ stops short at the sight of the waistcoat, which lies in her
 passage_).--But what shall I hear?--there can be no good news for
 me--this speaks too plainly.
 
-[_Aleftson pulls her arm between his, and leads her away_.]
+{_Aleftson pulls her arm between his, and leads her away_.}
 
 _Charles_. Nay, master, take me, as you promised, along with you--I
 won't be left behind--I'm wide awake now--I must have a sight of Count
@@ -17004,7 +16912,7 @@ on my road home, when I can swear to 'em I've seen Count Helmaar alive,
 in his own castle, face to face--God bless him, he's _the poor man's
 friend_.
 
-[_Exeunt_.]
+{_Exeunt_.}
 
 SCENE--_The housekeeper's room in Count_ HELMAAR'S _Castle_.
 
@@ -17042,7 +16950,7 @@ _Mrs. Ulrica._ Lord bless me! are not they there before those eyes of
 yours?--But I can't blame nobody for being out of their wits a little
 with joy such a night as this.
 
-[_Exit Footman_.]
+{_Exit Footman_.}
 
 _Christiern_. Never man was better beloved in the regiment than Count
 Helmaar.
@@ -17104,7 +17012,7 @@ ago, in the confectionary room.
 _Footman_. Confectionary room! Oh, I never thought of looking there.
 
 _Mrs. Ulrica_. Look ye there, now!--why, where did you think of looking,
-then?--in the stable, or the cockloft, hey?--[_Exit Footman_.]--But I
+then?--in the stable, or the cockloft, hey?--{_Exit Footman_.}--But I
 can't scold on such a night as this: their poor heads are all turned
 with joy; and my own's scarce in a more proper_er_ condition--Well,
 I beg your pardon--pray go on--the coffee-pot is my master, and the
@@ -17113,7 +17021,7 @@ candle's the enemy.
 _Christiern_. So, ma'am, here comes the enemy full drive, upon Count
 Helmaar.
 
-[_A call without of Mrs. Ulrica! Mrs. Ulrica! Mrs. Ulrica!_]
+{_A call without of Mrs. Ulrica! Mrs. Ulrica! Mrs. Ulrica!_}
 
 _Mrs. Ulrica_. Mrs. Ulrica! Mrs. Ulrica!--can't you do without Mrs.
 Ulrica one instant but you must call, call--(_Mrs. Ulrica! Mrs.
@@ -17130,7 +17038,7 @@ _Footman_ Ma'am! Mrs. Ulrica! the key of the blue press.
 _Mrs. Ulrica_. The key of the blue press--I had it in my hand just
 now--I gave it--I--(_looks amongst a bunch of keys, and then all round
 the room_)--I know nothing at all about it, I tell you--I must drink my
-tea, and I will--[_Exit Footman_]. 'Tis a sin to scold on such a night
+tea, and I will--{_Exit Footman_}. 'Tis a sin to scold on such a night
 as this, if one could help it--Well, Mr. Christiern, so the coffee-pot's
 my master.
 
@@ -17157,9 +17065,9 @@ _Footman_. Here's your little godson, ma'am, is here, who has found it.
 _Mrs. Ulrica_ (_aside_). Hold your foolish tongue, can't you?--don't
 mention my little godson, for your life.
 
-[_The little boy creeps in under the footman's arm; his sister Kate
+{_The little boy creeps in under the footman's arm; his sister Kate
 follows him. Mrs. Ulrica lifts up her hands and eyes, with signs of
-impatience_.]
+impatience_.}
 
 _Mrs. Ulrica_ (_aside_). Now I had settled in my head that their father
 should not see them till to-morrow morning.
@@ -17195,7 +17103,7 @@ dears, and I'll be hanged if I won't carry you both up to my master
 himself, this very minute, and tell the story of your honesty before all
 the company.
 
-[_She pushes the children towards the door. Ulric looks back._]
+{_She pushes the children towards the door. Ulric looks back._}
 
 _Little Boy_. He has a soldier's coat on--let me ask him if he is a
 soldier.
@@ -17207,7 +17115,7 @@ _Little Girl_. Let me ask him if he knows any thing about father.
 _Mrs. Ulrica_ (_puts her hand before the little girl's mouth_). Hold
 your little foolish tongue, I say--what's that to you?
 
-[_Exeunt, Mrs. Ulrica pushing forward the children._]
+{_Exeunt, Mrs. Ulrica pushing forward the children._}
 
 _Enter, at the opposite door,_ THOMAS, _the footman._
 
@@ -17224,7 +17132,7 @@ does.
 
 _Christiern (with impatience)._ How provoking!--a full hour's work:--I
 sha'n't get home this night, I see that:--I wish the man and the baggage
-were in the Gulf of Finland. [_Exeunt._]
+were in the Gulf of Finland. {_Exeunt._}
 
 SCENE--_The apartment where the_ COUNT, ELEONORA, CHRISTINA, _&c., were
 dancing._
@@ -17256,7 +17164,7 @@ hearing?
 
 _Eleon_. (_to the children_). Come with us, my dears.
 
-[_Exeunt ladies and children._]
+{_Exeunt ladies and children._}
 
 _Mrs. Ulrica_. Don't, sir, pray, tell the children any thing about their
 father: they don't know that their father's here, though they've just
@@ -17298,12 +17206,12 @@ _Mrs. Ulrica_. Oh! a thousand thanks to you, sir; but I'm afraid the
 messenger will let the cat out of the bag.
 
 _Helmaar_. The man I have sent can keep a secret--Which way did the Lady
-Eleonora go?--Are those peasants in the hall? [_Exit Count._]
+Eleonora go?--Are those peasants in the hall? {_Exit Count._}
 
 _Mrs. Ulrica_ (_following_). She went towards the west drawing-room, I
 think, sir.--Yes, sir, the peasants are at supper in the hall. (_Aside_)
 Bless me! I wonder what messenger he sent, for I don't know many--men I
-mean--fit to be trusted with a secret. [_Exit_.]
+mean--fit to be trusted with a secret. {_Exit_.}
 
 SCENE--_An apartment in Count_ HELMAAR'S
 _Castle_.--ELEONORA.--CHRISTINA.--_Little_ KATE _and_ ULRIC _asleep on
@@ -17329,13 +17237,13 @@ vulgar boors, when he ought to be intent on nothing but your bright
 eyes?--then all I can say is, you are both of you just fit for one
 another: every _fool_, indeed, saw that long ago.
 
-[_A cry behind the scenes of "Long line Count Helmaar! Long live the
-good count! long live the poor man's friend!_"]
+{_A cry behind the scenes of "Long line Count Helmaar! Long live the
+good count! long live the poor man's friend!_"}
 
 _Christina (joins the cry_). Long live Count Helmaar!--join me,
 Eleonora--long live the good count! long live the poor man's friend!
 
-[_The little children waken, start up, and stretch themselves_.]
+{_The little children waken, start up, and stretch themselves_.}
 
 _Eleon_. There, you have wakened these poor children.
 
@@ -17353,7 +17261,7 @@ give this purse back to the rightful owner; I've found him out for
 you--(_Aside to Christina and Eleonora_). And now, ladies, if you please
 to go up into the gallery, you'll see something worth looking at.
 
-[_Exeunt_.]
+{_Exeunt_.}
 
 SCENE--_A hall in Count_ HELMAAR'S _Castle.--Peasants rising from supper
 in the back scene_.
@@ -17375,17 +17283,17 @@ way, to get a sight of him.
 _1st Peasant_. Hush! stand back!--here's some of the quality coming, who
 are not thinking of you.
 
-[_The peasants all retire to the back scene. Count_ HELMAAR, CHRISTINA,
+{_The peasants all retire to the back scene. Count_ HELMAAR, CHRISTINA,
 _and_ ELEONORA, _appear, looking from a gallery. Enter_ ALEFTSON _and_
 CATHERINE _at one door, Mrs._ ULRICA _at the opposite door, with_
-CHRISTIERN, _followed by the two children._]
+CHRISTIERN, _followed by the two children._}
 
 _Cath._ (_springs forward_.) Christiern! my husband! alive!--is it a
 dream?
 
 _Christiern_ (_embracing her_). Your own Christiern, dearest Catherine.
 
-[_The children clap their hands, and run to their father._]
+{_The children clap their hands, and run to their father._}
 
 _Ulric._ Why, I thought he was my father; only he did not shake hands
 with me.
@@ -17458,16 +17366,16 @@ _Ulric_. Yes, and it's my own father's.
 
 _Helmaar_. And how much money is there in it?
 
-[_The child opens the purse, and spreads the money on the floor_.]
+{_The child opens the purse, and spreads the money on the floor_.}
 
 _Ulric (to Mrs. Ulrica)_. Count you, for I can't count so much.
 
 _Mrs. Ulrica (counts)_. Eight ducats, five rixdollars, and let me see
-how many--sixteen carolines[2]:--'twould have been pity, Catherine, to
+how many--sixteen carolines{2}:--'twould have been pity, Catherine, to
 have lost all this treasure, which Christiern has saved for you.
 
-[Footnote 2: A rixdollar is 4s. 6d. sterling; two rixdollars are equal
-in value to a ducat; a caroline is 1s. 2d.]
+{Footnote 2: A rixdollar is 4s. 6d. sterling; two rixdollars are equal
+in value to a ducat; a caroline is 1s. 2d.}
 
 _Helmaar_. Catherine, I beg that all the money in this purse may be
 given to these honest peasants. (_To Kate_) Here, take it to them, my
@@ -17500,169 +17408,162 @@ shall think of nothing else all my life.
 
 
 
+*** END OF THIS PROJECT GUTENBERG EBOOK TALES AND NOVELS, VOLUME 1 (OF
+10) ***
+
+***** This file should be named 8826-8.txt or 8826-8.zip ***** This and
+all associated files of various formats will be found in:        http://www.gutenberg.org/8/8/2/8826/
 
 
+Text file produced by Anne Folland, Jonathan Ingram, Mary Meehan, and
+the Online Distributed Proofreading Team
+
+HTML file produced by David Widger
 
 
-End of the Project Gutenberg EBook of Tales And Novels, Volume 1 (of 10), by
-Maria Edgeworth
+Updated editions will replace the previous one--the old editions will be
+renamed.
 
-*** END OF THIS PROJECT GUTENBERG EBOOK TALES AND NOVELS, VOLUME 1 (OF 10) ***
-
-***** This file should be named 8826-8.txt or 8826-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/8/8/2/8826/
-
-Produced by Anne Folland, Jonathan Ingram, Mary Meehan,
-and the Online Distributed Proofreading Team
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in
+the General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You
+may use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
 *** START: FULL LICENSE ***
 
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU
+DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
+Gutenberg-tm License available with this file or online at  www.gutenberg.org/license.
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree
+to and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all the
+terms of this agreement, you must cease using and return or destroy all
+copies of Project Gutenberg-tm electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
+1.B. "Project Gutenberg" is a registered trademark. It may only be used
+on or associated in any way with an electronic work by people who agree
+to be bound by the terms of this agreement. There are a few things that
+you can do with most Project Gutenberg-tm electronic works even without
+complying with the full terms of this agreement. See paragraph 1.C
+below. There are a lot of things you can do with Project Gutenberg-tm
+electronic works if you follow the terms of this agreement and help
+preserve free future access to Project Gutenberg-tm electronic works.
+See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+Gutenberg-tm electronic works. Nearly all the individual works in
+the collection are in the public domain in the United States. If an
+individual work is in the public domain in the United States and you
+are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
+derivative works based on the work as long as all references to Project
+Gutenberg are removed. Of course, we hope that you will support the
+Project Gutenberg-tm mission of promoting free access to electronic
+works by freely sharing Project Gutenberg-tm works in compliance with
+the terms of this agreement for keeping the Project Gutenberg-tm name
+associated with the work. You can easily comply with the terms of this
+agreement by keeping this work in the same format with its attached
+full Project Gutenberg-tm License when you share it without charge with
+others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are in
+a constant state of change. If you are outside the United States, check
 the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
+before downloading, copying, displaying, performing, distributing
+or creating derivative works based on this work or any other Project
+Gutenberg-tm work. The Foundation makes no representations concerning
 the copyright status of any work in any country outside the United
 States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
+1.E.1. The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+or charges. If you are redistributing or providing access to a work with
+the phrase "Project Gutenberg" associated with or appearing on the work,
+you must comply either with the requirements of paragraphs 1.E.1 through
+1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
+terms imposed by the copyright holder. Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
+1.E.5. Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+word processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other
+than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the full
+Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing access
+to or distributing Project Gutenberg-tm electronic works provided that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
      the use of Project Gutenberg-tm works calculated using the method
@@ -17685,76 +17586,73 @@ that
      and discontinue all use of and all access to other copies of
      Project Gutenberg-tm works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
+- You provide, in accordance with paragraph 1.F.3, a full refund of any     money paid for a work or a replacement copy, if a defect in the
      electronic work is discovered and reported to you within 90 days
      of receipt of the work.
 
 - You comply with all other terms of this agreement for free
      distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set forth
+in this agreement, you must obtain permission in writing from both the
+Project Gutenberg Literary Archive Foundation and Michael Hart, the
+owner of the Project Gutenberg-tm trademark. Contact the Foundation as
+set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+public domain works in creating the Project Gutenberg-tm collection.
+Despite these efforts, Project Gutenberg-tm electronic works, and the
+medium on which they may be stored, may contain "Defects," such as, but
+not limited to, incomplete, inaccurate or corrupt data, transcription
+errors, a copyright or other intellectual property infringement, a
+defective or damaged disk or other medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
+liability to you for damages, costs and expenses, including legal fees.
+YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
+BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
+PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER,
+AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR
+ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES
+EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect
+in this electronic work within 90 days of receiving it, you can receive
+a refund of the money (if any) you paid for it by sending a written
+explanation to the person you received the work from. If you received
+the work on a physical medium, you must return the medium with your
+written explanation. The person or entity that provided you with the
+defective work may elect to provide a replacement copy in lieu of a
+refund. If you received the work electronically, the person or entity
 providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
+receive the work electronically in lieu of a refund. If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
 interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
+the applicable state law. The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
 promotion and distribution of Project Gutenberg-tm electronic works,
@@ -17765,102 +17663,104 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
+including obsolete, old, middle-aged and new computers. It exists
 because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
 assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
+goals and ensuring that the Project Gutenberg-tm collection will remain
+freely available for generations to come. In 2001, the Project Gutenberg
+Literary Archive Foundation was created to provide a secure and
+permanent future for Project Gutenberg-tm and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation information page at www.gutenberg.org
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Section 3. Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
+501(c)(3) educational corporation organized under the laws of the state
+of Mississippi and granted tax exempt status by the Internal Revenue
+Service. The Foundation's EIN or federal tax identification number is
+64-6221541. Contributions to the Project Gutenberg Literary Archive
+Foundation are tax deductible to the full extent permitted by U.S.
+federal laws and your state's laws.
 
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+throughout numerous locations. Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email
 contact links and up to date contact information can be found at the
 Foundation's web site and official page at www.gutenberg.org/contact
 
-For additional contact information:
-     Dr. Gregory B. Newby
+For additional contact information:     Dr. Gregory B. Newby
      Chief Executive and Director
      gbnewby@pglaf.org
 
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+Section 4. Information about Donations to the Project Gutenberg Literary
+Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
+Project Gutenberg-tm depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array
+of equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status with
+the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
 
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside
+the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
+methods and addresses. Donations are accepted in a number of other ways
+including checks, online payments and credit card donations. To donate,
+please visit: www.gutenberg.org/donate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section 5. General Information About Project Gutenberg-tm electronic
 works.
 
 Professor Michael S. Hart was the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
+with anyone. For forty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
 Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as Public Domain in the U.S. unless
+a copyright notice is included. Thus, we do not necessarily keep eBooks
+in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
      www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+This Web site includes information about Project Gutenberg-tm, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe to
+our email newsletter to hear about new eBooks.
+
+
+
 
